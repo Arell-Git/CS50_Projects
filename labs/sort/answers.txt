@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+Most efficient presorted list sorter due to its omega being (n).
+
+sort2 uses: Merge Sort
+
+How do you know?:
+Most efficient large list sorter due to both its O and omega being (n log n).
+
+sort3 uses: Selection Sort
+How do you know?: Proccess of elimination as well as consistently having the slowest run-time.
